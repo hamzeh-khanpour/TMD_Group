@@ -29,6 +29,7 @@ plt.grid(True)
 
 # Save the plot as a PDF
 plt.savefig('gluon_density_plot.pdf', format='pdf')
+plt.savefig('gluon_density_plot.jpg', format='jpg')
 
 # Optionally, you can also display the plot
 plt.show()

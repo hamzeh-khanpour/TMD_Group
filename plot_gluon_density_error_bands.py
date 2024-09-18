@@ -52,6 +52,7 @@ plt.grid(True)
 
 # 5. Save the plot as a PDF
 plt.savefig('gluon_density_with_error_bands.pdf', format='pdf')
+plt.savefig('gluon_density_with_error_bands.jpg', format='jpg')
 
 # Optionally, display the plot
 plt.show()
